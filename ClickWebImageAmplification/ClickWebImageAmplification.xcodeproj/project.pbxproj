@@ -17,6 +17,7 @@
 		6FB37D281CD898C700B4A999 /* ClickWebImageAmplificationUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6FB37D271CD898C700B4A999 /* ClickWebImageAmplificationUITests.m */; };
 		6FB37D381CD992B100B4A999 /* UIView+HMJExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 6FB37D371CD992B100B4A999 /* UIView+HMJExtension.m */; };
 		6FB37D3B1CD99CB200B4A999 /* BorderViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6FB37D3A1CD99CB200B4A999 /* BorderViewController.m */; };
+		6FF797FD1CE1C06A00CE09BD /* HMJSeeBigImgViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6FF797FC1CE1C06A00CE09BD /* HMJSeeBigImgViewController.m */; };
 		E63A4EEB704A3DA1D4843C5D /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 537545F3CD263357B78B8485 /* libPods.a */; };
 /* End PBXBuildFile section */
 
@@ -61,6 +62,8 @@
 		6FB37D371CD992B100B4A999 /* UIView+HMJExtension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+HMJExtension.m"; sourceTree = "<group>"; };
 		6FB37D391CD99CB200B4A999 /* BorderViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BorderViewController.h; sourceTree = "<group>"; };
 		6FB37D3A1CD99CB200B4A999 /* BorderViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BorderViewController.m; sourceTree = "<group>"; };
+		6FF797FB1CE1C06A00CE09BD /* HMJSeeBigImgViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HMJSeeBigImgViewController.h; sourceTree = "<group>"; };
+		6FF797FC1CE1C06A00CE09BD /* HMJSeeBigImgViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HMJSeeBigImgViewController.m; sourceTree = "<group>"; };
 		BCB2E6B23C647A284CABB948 /* Pods.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.release.xcconfig; path = "Pods/Target Support Files/Pods/Pods.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -129,6 +132,8 @@
 				6FB37D061CD898C700B4A999 /* AppDelegate.m */,
 				6FB37D081CD898C700B4A999 /* ViewController.h */,
 				6FB37D091CD898C700B4A999 /* ViewController.m */,
+				6FF797FB1CE1C06A00CE09BD /* HMJSeeBigImgViewController.h */,
+				6FF797FC1CE1C06A00CE09BD /* HMJSeeBigImgViewController.m */,
 				6FB37D391CD99CB200B4A999 /* BorderViewController.h */,
 				6FB37D3A1CD99CB200B4A999 /* BorderViewController.m */,
 				6FB37D0B1CD898C700B4A999 /* Main.storyboard */,
@@ -358,6 +363,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6FB37D381CD992B100B4A999 /* UIView+HMJExtension.m in Sources */,
+				6FF797FD1CE1C06A00CE09BD /* HMJSeeBigImgViewController.m in Sources */,
 				6FB37D0A1CD898C700B4A999 /* ViewController.m in Sources */,
 				6FB37D071CD898C700B4A999 /* AppDelegate.m in Sources */,
 				6FB37D3B1CD99CB200B4A999 /* BorderViewController.m in Sources */,
